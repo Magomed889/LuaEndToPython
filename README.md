@@ -14,4 +14,7 @@ roblox api
 
 
 
-use:
+Download in termux:
+git clone https://github.com/Magomed889/LuaEndToPython.git
+cd LuaEndToPython
+python main.py
