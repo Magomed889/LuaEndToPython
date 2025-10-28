@@ -8,7 +8,7 @@ supported lua version:
 
 
 supported custom api in lua:
-gameguardian api
+gameguardian api,
 roblox api
 
 
